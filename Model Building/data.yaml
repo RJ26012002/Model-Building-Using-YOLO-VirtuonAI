@@ -1,0 +1,7 @@
+train:  D:/YOLO_Test/train/images  # training Image path
+val: D:/YOLO_Test/valid/images # Validation Image Path
+
+nc: 30 # Number of Classes 
+names: [ "TABLE","BUYER","DATE","NUMBER","SELLER_ADDRESS","SELLER_NAME","SUB_TOTAL","TITLE","TOTAL", "GSTIN","GST(7%)","LOGO","DISCOUNT","DUE_DATE","GSTIN_BUYER","NOTE","PAYMENT_DETAILS","PO_NUMBER","SELLER_EMAIL","SELLER_SITE","TAX", "TOTAL_WORDS","GSTIN_SELLER","BILL_TO","GST(9%)","SEND_TO", "CONDITIONS","AMOUNT_DUE","GST(1%)","GST(18%)" ]
+
+ 
